@@ -1,0 +1,10 @@
+C:\Users\Azerot\source\repos\Datorium_PacMan_\Datorium_PacMan_Maybe\bin\Debug\Datorium_PacMan_Maybe.exe.config
+C:\Users\Azerot\source\repos\Datorium_PacMan_\Datorium_PacMan_Maybe\bin\Debug\Datorium_PacMan_Maybe.exe
+C:\Users\Azerot\source\repos\Datorium_PacMan_\Datorium_PacMan_Maybe\bin\Debug\Datorium_PacMan_Maybe.pdb
+C:\Users\Azerot\source\repos\Datorium_PacMan_\Datorium_PacMan_Maybe\obj\Debug\Datorium_PacMan_Maybe.csprojAssemblyReference.cache
+C:\Users\Azerot\source\repos\Datorium_PacMan_\Datorium_PacMan_Maybe\obj\Debug\Datorium_PacMan_Maybe.Game.resources
+C:\Users\Azerot\source\repos\Datorium_PacMan_\Datorium_PacMan_Maybe\obj\Debug\Datorium_PacMan_Maybe.Properties.Resources.resources
+C:\Users\Azerot\source\repos\Datorium_PacMan_\Datorium_PacMan_Maybe\obj\Debug\Datorium_PacMan_Maybe.csproj.GenerateResource.cache
+C:\Users\Azerot\source\repos\Datorium_PacMan_\Datorium_PacMan_Maybe\obj\Debug\Datorium_PacMan_Maybe.csproj.CoreCompileInputs.cache
+C:\Users\Azerot\source\repos\Datorium_PacMan_\Datorium_PacMan_Maybe\obj\Debug\Datorium_PacMan_Maybe.exe
+C:\Users\Azerot\source\repos\Datorium_PacMan_\Datorium_PacMan_Maybe\obj\Debug\Datorium_PacMan_Maybe.pdb
